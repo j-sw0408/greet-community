@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "greet-community"
 version = "0.1.0"
 description = "A friendly greeting package"
-authors = [{ name = "Greet Community Author" }]
+authors = [{ name = "조성우" }]
 license = "MIT"
 license-files = ["LICENSE"]
 requires-python = ">=3.11"
